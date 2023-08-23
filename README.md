@@ -4,7 +4,7 @@ This repository is  for all sem materials ans exam papers
 ## How to download the material 
 1) Visit the material page .
 2) Click on Raw Download .<br>
-<img  src="" alt="Image">
+<img  src="https://github.com/Nisarg155/Materials/blob/master/assets/demo.jpeg" alt="Image">
 
 ## How to contribute 
 - Fork this repo .
