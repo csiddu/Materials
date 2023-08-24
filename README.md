@@ -4,6 +4,7 @@ Welcome to the Academic Materials Repository! This repository is designed to be 
 ## Repository Overview
 - Dharmsinh Desai University
 - Computer Engineering Department
+- Managed by [Nisarg Amalani](https://github.com/Nisarg155) and [Kris Patel](https://github.com/Kris0011)
 
 ## Getting Started
 To make the most of this repository, simply navigate to the appropriate semester's folder and explore the materials available. You'll find subfolders for each subject or course, containing relevant documents. Feel free to download, read, and use these materials to enhance your understanding of the subjects.
