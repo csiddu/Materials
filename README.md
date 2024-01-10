@@ -26,17 +26,18 @@ To make the most of this repository, simply navigate to the appropriate semester
 
   ### Rules for commit
   - If adding something the message should follow the following structure
-    <br>, i.e `"added material or folder name in SEM/SUBJECT/"`.
+    <br>, i.e `"added material or folder name in SEM/BRANCH/SUBJECT/"`.
   - If making changes to readme.me then , i.e `"changed readme.me and shortly describe changes"`
 
 
 ## File structure 
 ### For material 
 
-The directory structure should be like this  `SEM/SUBJECT_NAME/MATERIAL`.
+The directory structure should be like this  `SEM/BRANCH/SUBJECT_NAME/MATERIAL`.
 <br>
 <br>
-`Note :- only upload pdfs or photos as material .`
+For papers Upload according to sessional or External . i.e  `SEM/BRANCH/SUBJECT/PAPERS/SESSIONAL1/` 
+`Note :- only upload pdfs , photos as material , and zip files .`
 <br>
 <br>
 -- If uploding the photos then either convert it into pdf or make an appropriate folder with suitable name,<br> i.e `"Topic_name or Chapter name"`.
